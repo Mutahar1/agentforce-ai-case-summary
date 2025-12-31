@@ -221,6 +221,6 @@ Check out my other AI-powered solutions:
 
 ---
 
-Built with by Mutahar | Senior Salesforce Developer
+Built by Mutahar | Senior Salesforce Developer
 
 </div>
