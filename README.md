@@ -207,9 +207,9 @@ Keep the summary under 200 words and actionable.
 ## Related Projects
 
 Check out my other AI-powered solutions:
-- [Renewal Navigator](../custom-lwc-redesigning) - Advanced LWC with intelligent filtering
-- [Amazon Chime Integration](../amazon-chime-salesforce) - AWS serverless integration
-- [Payment Gateway Integration](../payment-gateway-integration) - Secure API integration
+- [Renewal Navigator](https://github.com/Mutahar1/custom-lwc-redesigning) - Advanced LWC with intelligent filtering
+- [Amazon Chime Integration](https://github.com/Mutahar1/amazon-chime-salesforce) - AWS serverless integration
+- [Payment Gateway Integration](https://github.com/Mutahar1/payment-gateway-integration) - Secure API integration
 
 ---
 
